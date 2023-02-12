@@ -2,4 +2,4 @@
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning FrontEnd Side Development 
 - 💞️ I’m looking to collaborate on development of new projects
-- 📫 Telegram:  @spursfan07
+- 📫 Telegram:  @spursfan7
